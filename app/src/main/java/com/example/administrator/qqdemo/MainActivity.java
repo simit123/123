@@ -23,7 +23,6 @@ public class MainActivity extends BaseActivity {
     public void initData(Bundle savedInstanceState) {
         qq.setText("rrr");
 
-        //sfadf
     //测试
     }
 
